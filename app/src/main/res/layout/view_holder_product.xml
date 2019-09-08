@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv_product_detail"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:ignore="UselessParent">
+
+                <ImageView
+                    android:id="@+id/vh_product_user_img"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:contentDescription="@string/app_name" />
+
+                <TextView
+                    android:id="@+id/vh_product_user_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/post_font_size"
+                    android:layout_marginStart="@dimen/post_font_size"
+                    android:layout_toEndOf="@id/vh_product_user_img"
+                    android:layout_toRightOf="@id/vh_product_user_img"
+                    android:textColor="@android:color/black"
+                    android:textSize="8pt" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/vh_product_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text="@string/post_name"
+                    android:textColor="@android:color/black"
+                    android:textSize="7pt" />
+
+                <ImageView
+                    android:id="@+id/vh_product_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@string/app_name" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <Button
+                    android:id="@+id/btn_product_comment"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/cardview_light_background"
+                    android:drawableLeft="@drawable/ic_comment"
+                    android:drawableStart="@drawable/ic_comment"
+                    android:gravity="start|center"
+                    android:paddingEnd="0dp"
+                    android:paddingLeft="45dp"
+                    android:paddingRight="0dp"
+                    android:paddingStart="45dp"
+                    android:text="@string/comment"
+                    android:textAllCaps="false"
+                    android:textColor="#FF0B4E59"
+                    tools:ignore="ButtonStyle" />
+
+                <Button
+                    android:id="@+id/btn_product_save"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@color/cardview_light_background"
+                    android:drawableLeft="@drawable/ic_save"
+                    android:drawableStart="@drawable/ic_save"
+                    android:gravity="start|center"
+                    android:paddingEnd="0dp"
+                    android:paddingLeft="45dp"
+                    android:paddingRight="0dp"
+                    android:paddingStart="45dp"
+                    android:text="@string/save"
+                    android:textAllCaps="false"
+                    android:textColor="#FF0B4E59"
+                    tools:ignore="ButtonStyle" />
+            </LinearLayout>
+            <RelativeLayout
+                android:layout_marginTop="10dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp"
+                android:background="@drawable/flag_transparent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <EditText
+                    android:id="@+id/edt_product_comment"
+                    android:inputType="text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/comment"
+                    android:padding="10dp"
+                    android:background="@drawable/edittext_background"/>
+                <ImageView
+                    android:id="@+id/iv_product_send_comment"
+                    android:contentDescription="@string/comment"
+                    android:layout_width="35dp"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_send"
+                    android:padding="5dp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    />
+            </RelativeLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

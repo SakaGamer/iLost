@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="kh.com.ilost.activities.PostActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/post_txt_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edittext_background"
+            android:hint="@string/title"
+            android:inputType="text"
+            android:padding="10dp" />
+
+        <ImageButton
+            android:layout_marginTop="10dp"
+            android:id="@+id/post_img_btn_add_image"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:contentDescription="@string/app_name"
+            android:background="@drawable/flag_transparent"
+            android:src="@drawable/ic_add_image_post" />
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="10dp"
+            android:weightSum="2">
+
+            <RadioButton
+                android:id="@+id/post_rbtn_lost"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/lost" />
+
+            <RadioButton
+                android:id="@+id/post_rbtn_found"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/found" />
+        </RadioGroup>
+
+        <Spinner
+            android:id="@+id/post_sp_cat"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:background="@drawable/edittext_background"
+            android:entries="@array/cat"
+            android:padding="10dp"
+            android:spinnerMode="dropdown" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/post_txt_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/edittext_background"
+                android:hint="@string/date"
+                android:inputType="date"
+                android:padding="10dp"
+                android:paddingEnd="50dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="50dp"
+                android:paddingStart="15dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignEnd="@+id/post_txt_date"
+                android:layout_alignRight="@+id/post_txt_date"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:contentDescription="@string/post_name"
+                android:src="@drawable/ic_calender" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1">
+
+                <EditText
+                    android:id="@+id/post_txt_start_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edittext_background"
+                    android:hint="@string/from"
+                    android:inputType="date"
+                    android:padding="10dp"
+                    android:paddingEnd="50dp"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="50dp"
+                    android:paddingStart="15dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignEnd="@+id/post_txt_start_time"
+                    android:layout_alignRight="@+id/post_txt_start_time"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="15dp"
+                    android:contentDescription="@string/post_name"
+                    android:src="@drawable/ic_time" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="5dp"
+                android:layout_weight="1">
+
+                <EditText
+                    android:id="@+id/post_txt_end_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/edittext_background"
+                    android:hint="@string/to"
+                    android:inputType="date"
+                    android:padding="10dp"
+                    android:paddingEnd="50dp"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="50dp"
+                    android:paddingStart="15dp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_alignEnd="@+id/post_txt_end_time"
+                    android:layout_alignRight="@+id/post_txt_end_time"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="15dp"
+                    android:contentDescription="@string/post_name"
+                    android:src="@drawable/ic_time" />
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Spinner
+                android:id="@+id/post_sp_location"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/edittext_background"
+                android:entries="@array/location"
+                android:padding="10dp"
+                android:paddingEnd="50dp"
+                android:paddingLeft="15dp"
+                android:paddingRight="50dp"
+                android:paddingStart="15dp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignEnd="@+id/post_sp_location"
+                android:layout_alignRight="@+id/post_sp_location"
+                android:layout_marginEnd="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:contentDescription="@string/post_name"
+                android:src="@drawable/ic_location" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/post_btn_save"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="#FF0B4E59"
+            android:text="@string/add_post"
+            android:textColor="@color/pf_white" />
+    </LinearLayout>
+</ScrollView>

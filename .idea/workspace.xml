@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65db100e-e661-48e4-b91e-347b3c0002f8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_common_1_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_runtime_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_viewmodel_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_animated_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_appcompat_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_asynclayoutinflater_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cardview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_collections_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_constraint_constraint_layout_solver_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_coordinatorlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_cursoradapter_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customtabs_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_customview_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_design_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_documentfile_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_drawerlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_interpolator_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_loader_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_localbroadcastmanager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_print_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_recyclerview_v7_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_slidingpanelayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_annotations_28_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_ui_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_core_utils_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_fragment_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_vector_drawable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_swiperefreshlayout_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_core_3_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_rules_1_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_test_runner_1_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_transition_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_versionedparcelable_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_volley_volley_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_android_facebook_common_4_30_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_android_facebook_core_4_30_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_facebook_android_facebook_login_4_30_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_GoodieBag_Pinview_v1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_7_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_7_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_7_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_joielechong_countrycodepicker_2_1_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_auth_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_core_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_connection_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_database_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_common_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_storage_license_12_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_zxing_core_3_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_googlecode_libphonenumber_libphonenumber_7_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_lamudi_phonefield_phone_field_0_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_parse_bolts_bolts_android_1_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_parse_bolts_bolts_applinks_1_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_parse_bolts_bolts_tasks_1_4_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_tuyenmonkey_mkloader_1_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_michaelrocks_libphonenumber_android_8_4_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/kh/com/ilost/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/AppIntroSlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/ChatActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/LoginActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/PhoneSignupActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/PostActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/PostDetailActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/SignupActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/StartUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/adapters/ChatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/adapters/CommentAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/adapters/MessageAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/adapters/ProductAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/fragments/FragmentHome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/fragments/FragmentMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/helpers/VolleyRequestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/ChatList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/view/holders/CommentViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/view/holders/ProductViewHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/anim/slide_from_right.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/google_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/arrow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/edittext_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fb_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/gradiennt1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_add_image_post.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_calender.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_send_violet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ilost_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/message_bg_recieve.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/message_bg_send.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/outline_rounded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/phone_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_light_green.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_rounded_light_blue.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_rounded_orange.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/rectangle_rounded_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/settings2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/twitter_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/miriam_libre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_phone_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_post.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_post_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_signup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_start_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/dialog_edit_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_message_recieve.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_message_recieve_rounded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_message_send.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_message_send_rounded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_holder_post_detail_comment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_holder_product.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_holder_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/menu/bottom_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/provider_paths.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/kh/com/ilost/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-02-58-12-602.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-02-58-12-602.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-02-58-55-507.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-02-58-55-507.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-02-59-28-407.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-02-59-28-407.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-01-39-585.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-01-39-585.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-04-39-375.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-04-39-375.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-08-37-062.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-08-37-062.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-09-14-484.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-09-14-484.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-18-54-729.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-18-54-729.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-20-16-161.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-20-16-161.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-46-42-975.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-46-42-975.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-50-01-845.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-50-01-845.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-51-17-578.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-03-51-17-578.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-06-14-472.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-06-14-472.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-09-07-419.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-09-07-419.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-10-05-201.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-10-05-201.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-10-27-280.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-10-27-280.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-15-53-260.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-15-53-260.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-27-37-170.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-27-37-170.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-27-59-812.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-27-59-812.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-30-13-131.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-30-13-131.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-36-20-261.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-36-20-261.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-37-39-452.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-37-39-452.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-38-43-829.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-38-43-829.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-40-26-428.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-04-40-26-428.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-09-59-040.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-09-59-040.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-10-57-383.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-10-57-383.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-11-41-718.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-11-41-718.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-14-23-407.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-14-23-407.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-15-03-347.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-15-03-347.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-15-48-491.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-15-48-491.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-32-19-956.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-32-19-956.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-36-48-040.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-36-48-040.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-39-18-139.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-39-18-139.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-40-04-492.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-40-04-492.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-43-46-439.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-43-46-439.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-47-19-054.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-47-19-054.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-51-07-906.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-51-07-906.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-52-30-872.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-52-30-872.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-55-21-789.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-55-21-789.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-57-31-679.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-05-57-31-679.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-06-00-04-380.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-06-00-04-380.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-06-01-33-069.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-06-01-33-069.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-06-02-07-245.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-06-02-07-245.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-06-05-34-717.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-06-05-34-717.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-22-34-03-471.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-22-34-03-471.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-22-43-11-663.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-22-43-11-663.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-22-45-24-897.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-22-45-24-897.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-37-20-667.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-37-20-667.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-39-36-607.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-39-36-607.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-44-35-706.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-44-35-706.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-45-20-231.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-45-20-231.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-46-28-992.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-02-23-46-28-992.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-00-25-26-300.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-00-25-26-300.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-00-31-37-350.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-00-31-37-350.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-00-59-38-407.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-00-59-38-407.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-02-51-08-803.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-02-51-08-803.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-02-52-06-530.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-02-52-06-530.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-02-52-44-028.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-02-52-44-028.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-02-52-925.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-02-52-925.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-05-56-464.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-05-56-464.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-07-22-466.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-07-22-466.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-07-45-849.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-07-45-849.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-10-13-568.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-10-13-568.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-12-26-207.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-12-26-207.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-13-40-498.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-13-40-498.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-14-20-876.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-14-20-876.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-15-32-217.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-15-32-217.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-16-21-590.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-16-21-590.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-20-16-596.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-20-16-596.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-22-25-332.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-22-25-332.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-32-33-085.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-03-32-33-085.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-12-44-671.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-12-44-671.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-13-18-634.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-13-18-634.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-15-10-062.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-15-10-062.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-16-06-551.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-16-06-551.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-18-13-832.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-18-13-832.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-29-26-939.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-29-26-939.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-34-06-714.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-34-06-714.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-39-48-398.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-39-48-398.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-55-13-812.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-55-13-812.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-56-32-729.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-04-56-32-729.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-05-02-18-849.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-05-02-18-849.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-06-08-267.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-06-08-267.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-11-52-518.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-11-52-518.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-16-53-935.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-16-53-935.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-17-47-157.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-17-47-157.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-25-06-709.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-25-06-709.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-26-14-106.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-26-14-106.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-34-56-531.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-34-56-531.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-35-21-668.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-35-21-668.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-36-01-138.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-36-01-138.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-37-57-085.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-37-57-085.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-46-24-016.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-11-46-24-016.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-02-34-311.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-02-34-311.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-18-58-651.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-18-58-651.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-21-41-059.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-21-41-059.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-30-25-557.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-30-25-557.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-31-12-842.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-31-12-842.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-33-51-818.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-33-51-818.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-35-19-368.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-35-19-368.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-40-38-726.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-40-38-726.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-43-45-605.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-43-45-605.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-44-32-864.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-44-32-864.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-45-43-059.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-45-43-059.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-47-45-894.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-47-45-894.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-49-12-906.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-49-12-906.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-55-21-800.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-12-55-21-800.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-00-49-430.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-00-49-430.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-02-12-678.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-02-12-678.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-02-43-073.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-02-43-073.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-03-05-174.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-03-05-174.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-07-35-126.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-07-35-126.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-12-27-493.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-12-27-493.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-29-26-202.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-29-26-202.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-31-24-630.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-31-24-630.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-34-51-709.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-34-51-709.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-36-18-459.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-36-18-459.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-36-49-705.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-36-49-705.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-37-49-588.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-37-49-588.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-39-02-676.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-39-02-676.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-40-35-535.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-40-35-535.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-41-14-832.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-41-14-832.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-41-32-025.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-41-32-025.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-42-21-470.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-42-21-470.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-46-33-714.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-46-33-714.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-47-20-875.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-13-47-20-875.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-15-43-30-286.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-15-43-30-286.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-47-47-869.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-47-47-869.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-48-42-119.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-48-42-119.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-51-12-536.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-51-12-536.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-54-11-632.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-54-11-632.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-54-51-100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-54-51-100.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-58-29-091.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-16-58-29-091.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-01-32-399.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-01-32-399.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-05-03-950.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-05-03-950.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-11-29-854.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-11-29-854.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-12-41-331.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-12-41-331.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-28-09-286.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-17-28-09-286.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-12-42-615.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-12-42-615.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-16-30-036.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-16-30-036.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-17-29-699.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-17-29-699.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-17-59-496.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-17-59-496.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-22-52-424.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-22-52-424.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-25-14-338.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-25-14-338.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-27-45-036.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-27-45-036.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-32-30-892.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-32-30-892.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-36-55-634.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-36-55-634.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-42-06-338.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-42-06-338.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-52-18-568.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-52-18-568.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-56-39-314.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-18-56-39-314.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-19-06-21-837.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-19-06-21-837.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-19-07-41-364.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-03-19-07-41-364.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-03-22-46-739.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-03-22-46-739.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-12-38-53-323.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-12-38-53-323.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-12-50-54-780.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-12-50-54-780.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-12-56-17-324.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-12-56-17-324.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-14-21-24-056.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-14-21-24-056.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-14-43-14-394.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-14-43-14-394.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-15-10-59-928.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-15-10-59-928.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-15-16-53-673.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-04-15-16-53-673.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-20-50-09-635.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-20-50-09-635.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-20-50-22-812.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-20-50-22-812.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-20-51-27-224.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-20-51-27-224.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-20-54-42-953.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-20-54-42-953.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-12-33-396.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-12-33-396.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-21-43-289.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-21-43-289.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-23-22-982.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-23-22-982.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-24-04-849.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-24-04-849.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-24-31-406.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-24-31-406.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-28-23-880.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-28-23-880.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-31-12-983.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-31-12-983.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-31-56-740.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-21-31-56-740.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-23-09-961.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-23-09-961.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-24-03-371.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-24-03-371.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-25-17-459.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-25-17-459.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-25-33-558.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-25-33-558.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-25-58-666.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-25-58-666.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-27-05-555.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-27-05-555.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-40-33-437.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-20-22-40-33-437.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-23-45-936.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-23-45-936.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-25-48-552.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-25-48-552.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-40-01-010.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-40-01-010.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-40-34-805.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-40-34-805.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-43-06-497.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-21-13-43-06-497.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-09-42-44-203.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-09-42-44-203.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-09-43-33-015.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-09-43-33-015.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-22-49-934.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-22-49-934.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-23-15-834.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-23-15-834.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-35-19-990.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-35-19-990.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-36-22-121.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-36-22-121.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-38-12-101.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-38-12-101.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-38-28-934.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-38-28-934.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-39-26-892.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-39-26-892.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-40-34-374.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-40-34-374.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-41-58-781.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-41-58-781.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-47-15-641.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-11-47-15-641.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-12-17-04-384.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-12-17-04-384.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-12-30-28-366.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-12-30-28-366.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-13-11-29-599.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-13-11-29-599.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-13-12-27-561.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-13-12-27-561.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-13-37-12-505.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-13-37-12-505.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-14-56-14-701.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-14-56-14-701.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-14-57-08-724.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-14-57-08-724.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-15-53-04-762.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-15-53-04-762.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-15-53-31-256.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-15-53-31-256.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-15-56-05-973.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-15-56-05-973.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-15-57-55-324.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-15-57-55-324.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-16-01-29-095.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-16-01-29-095.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-16-01-57-107.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-24-16-01-57-107.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-09-58-16-641.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-09-58-16-641.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-09-58-54-062.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-09-58-54-062.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-37-35-254.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-37-35-254.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-37-59-729.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-37-59-729.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-42-10-354.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-42-10-354.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-44-23-410.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-44-23-410.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-55-18-152.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-10-55-18-152.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-02-43-106.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-02-43-106.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-05-36-243.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-05-36-243.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-11-34-793.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-11-34-793.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-22-28-478.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-22-28-478.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-23-45-556.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-23-45-556.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-25-43-606.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-25-43-606.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-30-51-231.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-30-51-231.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-32-21-988.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-32-21-988.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-36-05-593.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-36-05-593.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-37-36-192.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-37-36-192.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-40-15-574.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-40-15-574.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-41-22-274.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-41-22-274.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-44-40-394.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-44-40-394.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-45-31-182.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-45-31-182.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-52-35-463.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-52-35-463.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-55-13-661.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-55-13-661.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-56-10-593.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-56-10-593.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-57-37-309.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-57-37-309.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-58-41-761.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-58-41-761.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-59-41-794.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-03-25-11-59-41-794.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-04-05-23-08-39-733.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-profile/profile-2018-04-05-23-08-39-733.rawproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iLost.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iLost3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus5X" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="iLost" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/view/holders/ProductViewHolder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#set#0;class#ProductViewHolder#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/LoginActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+              <folding>
+                <element signature="e#3232#3273#0" expanded="true" />
+                <element signature="method#userSingin#0;class#LoginActivity#0" expanded="true" />
+                <element signature="method#onActivityResult#0;class#LoginActivity#0" expanded="true" />
+                <element signature="method#onStart#0;class#LoginActivity#0" expanded="true" />
+                <element signature="method#handleFacebookAccessToken#0;class#LoginActivity#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-996" />
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_holder_user.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/adapters/ProductAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="method#onCreateViewHolder#0;class#ProductAdapter#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_holder_post_detail_comment.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/edittext_background.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_post.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/xml/provider_paths.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/Post.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/PostActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/User.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/fragments/FragmentHome.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_holder_product.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_post_detail.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/view/holders/PostDetailViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/view/holders/CommentViewHolder.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/adapters/ProductAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/adapters/CommentAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/Comment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/PostDetailActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_holder_post_detail_comment.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_holder_user.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/MyIntro.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/LoginActivity.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/kh/com/ilost/view/holders/ProductViewHolder.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-110" />
+    <option name="y" value="124" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ilost" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="ilost" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="activities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="font" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="xml" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="iLost" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.profiler.active" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Nexus_5_API_24" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1567947011685" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.packageName">
+      <recent name="kh.com.ilost.view.holders" />
+      <recent name="kh.com.ilost.activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Daly\Desktop\Project\Android\iLost\app\src\main\res\layout" />
+      <recent name="C:\Users\Daly\Desktop\Project\Android\iLost\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65db100e-e661-48e4-b91e-347b3c0002f8" name="Default" comment="" />
+      <created>1522944295394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522944295394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="978" extended-state="6" />
+    <layout>
+      <window_info id="Resources Explorer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16971917" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Build Variants" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="Captures" order="5" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" weight="0.32843137" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50671554" side_tool="true" weight="0.2979684" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32731378" />
+      <window_info anchor="bottom" id="Logcat" order="11" weight="0.29683974" />
+      <window_info anchor="bottom" id="Build" order="12" sideWeight="0.4932845" weight="0.2979684" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Preview" order="8" weight="0.3809524" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rectangle_light_green.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rectangle.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/rectangle_rounded_orange.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/arrow.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/kh/com/ilost/Manifest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/provider_paths.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_post.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="90" column="28" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/edittext_background.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/Post.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="86" column="25" selection-start-line="86" selection-start-column="25" selection-end-line="86" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/PostActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="115" column="54" selection-start-line="115" selection-start-column="49" selection-end-line="115" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_post_detail.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="36" selection-start-line="124" selection-start-column="36" selection-end-line="124" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/recyclerview-v7/26.1.0/63d6891b399433c913fe91ce95a8456de02d367f/recyclerview-v7-26.1.0-sources.jar!/android/support/v7/widget/RecyclerView.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_holder_product.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="42" selection-end-line="138" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/models/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/view/holders/CommentViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/adapters/CommentAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/PostDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="138" column="89" selection-start-line="138" selection-start-column="89" selection-end-line="138" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/fragments/FragmentHome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="131" selection-start-line="131" selection-end-line="131" />
+          <folding>
+            <element signature="method#logout#0;class#FragmentHome#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_chat.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-996" />
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_holder_post_detail_comment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/3b167bcfd73d7a6878f3bd87ce31aeb1/jars/classes.jar!/com/google/android/gms/auth/api/signin/GoogleSignIn.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="method#getClient#1;class#GoogleSignIn#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/LoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+          <folding>
+            <element signature="e#3232#3273#0" expanded="true" />
+            <element signature="method#userSingin#0;class#LoginActivity#0" expanded="true" />
+            <element signature="method#onActivityResult#0;class#LoginActivity#0" expanded="true" />
+            <element signature="method#onStart#0;class#LoginActivity#0" expanded="true" />
+            <element signature="method#handleFacebookAccessToken#0;class#LoginActivity#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/activities/MyIntro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="method#init#0;class#MyIntro#0" expanded="true" />
+            <element signature="method#onSkipPressed#0;class#MyIntro#0" expanded="true" />
+            <element signature="method#onNextPressed#0;class#MyIntro#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_holder_user.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/adapters/ProductAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="method#onCreateViewHolder#0;class#ProductAdapter#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/kh/com/ilost/view/holders/ProductViewHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#set#0;class#ProductViewHolder#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
